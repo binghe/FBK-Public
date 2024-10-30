@@ -2,5 +2,5 @@
 author: Chun Tian
 ---
 
-# ANU-Public
-Public code developed during my PhD and postdoc study
+# FBK-Public
+Public code developed during my PhD at UniTN and FBK
